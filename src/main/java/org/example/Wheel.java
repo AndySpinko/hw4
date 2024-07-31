@@ -9,7 +9,6 @@ public class Wheel {
     @Getter
     private int status = 100;
 
-
     public void replaceWheel() {
         try {
             sleep(5000);
